@@ -11,7 +11,7 @@ body {
   background-color: #fff;
   padding: 20px;
   border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(43, 37, 37, 0.1);
 }
 
 .header {
@@ -29,7 +29,7 @@ body {
   text-align: center;
 }
 
-.search-bar input[type=&quot;text&quot;] {
+.search-bar input[type=";text"] {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -37,7 +37,7 @@ body {
   margin-right: 10px;
 }
 
-.search-bar input[type=&quot;submit&quot;] {
+.search-bar input[type=";submit"] {
   padding: 10px 20px;
   background-color: #4285f4;
   color: #fff;
@@ -55,7 +55,7 @@ body {
   margin-bottom: 5px;
 }
 
-.advanced-search input[type=&quot;text&quot;] {
+.advanced-search input[type=";text"] {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -63,7 +63,7 @@ body {
   margin-bottom: 10px;
 }
 
-.advanced-search input[type=&quot;submit&quot;] {
+.advanced-search input[type=";submit"] {
   padding: 10px 20px;
   background-color: #0066cc;
   color: #fff;
